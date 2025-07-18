@@ -1,4 +1,4 @@
-# 🧠 Tic Tac Toe AI
+# 🧠 Tic Tac Toe
 
 Un jeu de morpion (Tic Tac Toe) codé en JavaScript, HTML et CSS avec deux modes contre une IA : **facile (aléatoire)** et **difficile (minimax)**.  
 Jouez aussi en local à deux sur le même appareil !
