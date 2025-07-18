@@ -24,7 +24,7 @@ Jouez aussi en local à deux sur le même appareil !
 - Aucune bibliothèque externe (sans dépendance)
 
 ---
-
+ 
 ## 📁 Structure du projet
 
 ```
