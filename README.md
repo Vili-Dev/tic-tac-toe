@@ -74,7 +74,7 @@ soundDraw.play();
 
 ## 📸 Aperçu
 
-<img src="images/example.png" alt="Aperçu du jeu Tic Tac Toe">
+<img src="images/exemple.png" alt="Aperçu du jeu Tic Tac Toe">
 
 ---
 
