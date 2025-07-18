@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Tic-Tac-Toe</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div id="game-container">
+  <h1>❌⭕ Tic-Tac-Toe</h1>
+
+  <div class="mode-selection">
+    <button id="modePvP">Joueur vs Joueur</button>
+    <button id="modeIAeasy">IA - Normal</button>
+    <button id="modeIAhard">IA - impossible</button>
+  </div>
+
+  <p id="gameStatus">Choisis un mode pour commencer</p>
+
+  <div class="board" id="board"></div>
+
+  <button id="restart" style="display: none;">Rejouer</button>
+
+  <div id="modalStart" class="modal hidden">
+  <div class="modal-content">
+    <p>Veux-tu commencer en premier ?</p>
+    <button id="btnStartYes">Oui</button>
+    <button id="btnStartNo">Non, laisse l'IA commencer</button>
+  </div>
+</div>
+</div>
+
+  <script src="script.js"></script>
+</body>
+</html>
