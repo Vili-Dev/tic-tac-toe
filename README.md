@@ -72,6 +72,8 @@ soundDraw.play();
 
 ---
 
+➡️ [Voir la démo sur Netlify](https://tic-tac-toe-maw.netlify.app/)
+
 ## 📸 Aperçu
 
 <img src="images/exemple.png" alt="Aperçu du jeu Tic Tac Toe">
